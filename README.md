@@ -6,4 +6,4 @@ https://github.com/LorisNanni/An-empirical-study-on-ensemble-of-segmentation-app
 
 the links for HardNet and PVT are:
 https://github.com/james128333/HarDNet-MSEG
-https://github.com/whai362/PVT 
+https://github.com/DengPingFan/Polyp-PVT
